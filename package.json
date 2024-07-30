@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "asterisk-manager": "^0.2.0",
+    "dotenv": "^16.4.5",
+    "mysql2": "^3.11.0",
+    "sequelize": "^6.37.3",
+    "socket.io-client": "^4.7.5"
+  }
+}
